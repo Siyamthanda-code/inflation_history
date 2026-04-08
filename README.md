@@ -8,7 +8,7 @@ While forecasting predicts the future, this project analyzes the past. By calcul
 
 ## 📈 Dataset
 
--   **Source:** Kaggle (South Africa Inflation Rate 1975-2026)
+-   **Source:** Kaggle [(South Africa Inflation Rate 1975-2026)](https://www.kaggle.com/datasets/katlegokgaswa/south-africa-inflation-rate).
 -   **Features:** Monthly inflation rates (%).
 -   **Timeframe:** January 1975 – February 2026.
 
